@@ -31,7 +31,13 @@
                 </h2>
                 </section>
             <nav class="site__navigation">
-            Menu
+            <div>
+            <a href="#">Accueil</a>
+		    <a href="#">Programme</a>
+		    <a href="#">Bibliothèque</a>
+		    <a href="#">Biographie</a>
+		    <a href="#">Contribuer</a>
+            </div>
             </nav>
         </header>
         <section class="site__sidebar">
